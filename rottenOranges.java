@@ -1,5 +1,4 @@
-
-    import java.util.*;
+import java.util.*;
 
 public class rottenOranges {
 	public static int count(int[][] grid) {
@@ -31,4 +30,3 @@ public class rottenOranges {
 		return fresh == 0 ? time : -1;
 	}
 }
-

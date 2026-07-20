@@ -1,3 +1,4 @@
+import java.util.*;
 public class longestConswcutive{
      public static int longestConsecutive(int[] nums) {
         HashSet<Integer> s = new HashSet<>();
